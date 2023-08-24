@@ -15,4 +15,4 @@ Since I have to refresh the ancient Word document, I might as well come up with 
 
 ![My online resume](./docs/benglin-online-resume.png)
 
--   [My online resume](https://benglin.github.io/project-glitter/)
+-   [My online resume](https://benglin.github.io/resume/)
